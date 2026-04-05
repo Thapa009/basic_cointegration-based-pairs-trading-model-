@@ -158,7 +158,7 @@ This project is ideal for:
 
 ## 📜 License
 
-**This project is intended for educational and research purposes only. It serves as a basic learning framework for understanding pairs trading and developing foundational knowledge in quantitative finance, with an emphasis on implementing theoretical concepts in a practical manner.
+**This project is intended for educational and research purposes only. It serves as a basic learning framework for understanding pairs trading and developing foundational knowledge in quantitative finance, with an emphasis on implementing basic theoretical concepts in a practical manner.
 **---
 
 ## 🙌 Author
