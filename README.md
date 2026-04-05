@@ -168,35 +168,6 @@ Anil Thapa
 
 ---
 
-## ⭐ If you find this useful
-
-Give it a star ⭐ and consider extending it with advanced models!
-⚙️ Features
-📈 1. Data Collection
-Fetch historical stock data using yfinance
-Web scraping using requests and BeautifulSoup
-Support for multiple tickers
-🔗 2. Pair Identification Methods
-✔ Cointegration-Based
-Uses statistical tests to find long-term relationships
-Identifies mean-reverting pairs
-✔ PCA-Based
-Reduces dimensionality of returns
-Selects pairs based on principal component similarity
-✔ Correlation-Based
-Identifies highly correlated stock pairs
-📊 3. Trading Strategy
-Z-score based mean-reversion strategy
-Entry/Exit signals:
-Long: Z-score < -2
-Short: Z-score > 2
-Exit: |Z-score| < 0.5
-🧠 4. Machine Learning (Clustering)
-K-Means
-DBSCAN
-Agglomerative Clustering
-
-Used to group similar stocks and identify potential trading pairs.
 
 📉 5. Backtesting & Performance
 Simple PnL calculation
