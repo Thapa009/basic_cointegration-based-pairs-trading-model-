@@ -166,12 +166,6 @@ This project is ideal for:
 Anil Thapa
 
 ---
-
-
-📉 5. Backtesting & Performance
-Simple PnL calculation
-Sharpe ratio estimation
-Portfolio rebalancing (monthly)
 🛠️ Tech Stack
 Python
 pandas
