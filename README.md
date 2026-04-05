@@ -130,7 +130,7 @@ python clustering_analysis.py
 * Simplified PnL calculation
 * Limited ticker universe
 * Some modules are prototype-level
-* simple basic implementation
+* basic implementation
   
 
 ---
